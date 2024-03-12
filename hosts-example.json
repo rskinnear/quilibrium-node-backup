@@ -1,0 +1,32 @@
+[
+    {
+        "hostname": "203.156.82.217",
+        "user": "root",
+        "password": "password-1",
+        "port": 22
+    },
+    {
+        "hostname": "121.97.168.34",
+        "user": "root",
+        "password": "password-2",
+        "port": 22    
+    },
+    {
+        "hostname": "176.29.115.92",
+        "user": "root",
+        "password": "password-3",
+        "port": 22
+    },
+    {
+        "hostname": "89.241.53.206",
+        "user": "root",
+        "password": "password-4",
+        "port": 22
+    },
+    {
+        "hostname": "57.182.124.73",
+        "user": "root",
+        "password": "password-5",
+        "port": 22
+    }
+]
